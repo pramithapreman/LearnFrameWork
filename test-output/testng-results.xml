@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="58503" started-at="2018-04-02T14:43:23Z" finished-at="2018-04-02T14:44:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="58503" started-at="2018-04-02T14:43:23Z" finished-at="2018-04-02T14:44:22Z">
+      <class name="com.learnFramework.scripts.VerifyLogout">
+        <test-method status="PASS" signature="openApplication()[pri:0, instance:com.learnFramework.scripts.VerifyLogout@305fd85d]" name="openApplication" is-config="true" duration-ms="22360" started-at="2018-04-02T14:43:23Z" finished-at="2018-04-02T14:43:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="enterEmail()[pri:0, instance:com.learnFramework.scripts.VerifyLogout@305fd85d]" name="enterEmail" duration-ms="35893" started-at="2018-04-02T14:43:46Z" finished-at="2018-04-02T14:44:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterEmail -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:com.learnFramework.scripts.VerifyLogout@305fd85d]" name="closeApplication" is-config="true" duration-ms="203" started-at="2018-04-02T14:44:21Z" finished-at="2018-04-02T14:44:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.learnFramework.scripts.VerifyLogout -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
